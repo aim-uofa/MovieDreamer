@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" height=100>
+  <img src="assets/logo.png" height=200>
 </p>
 <hr>
 <div align="center">
@@ -26,15 +26,7 @@
 
 ## 😲 Results
 Please refer to our [homepage](https://aim-uofa.github.io/MovieDreamer/) for more thrilling results!
-### MovieDreamer + Luma
-| Video1 | Video2  | Video3  |
-| --- | --- | --- |
-| <video id="video" controls="" preload="auto" poster="封面"><source id="mp4" src="assets/luma/long1.mp4" type="video/mp4"></video>  | <video id="video" controls="" preload="auto" poster="封面"><source id="mp4" src="assets/luma/long2.mp4" type="video/mp4"></video> | <video id="video" controls="" preload="auto" poster="封面"><source id="mp4" src="assets/luma/long3.mp4" type="video/mp4"></video>  |
 
-### MovieDreamer + Our Video Generation Method
-| Video1 | Video2  | Video3  |
-| --- | --- | --- |
-| <video id="video" controls="" preload="auto" poster="封面"><source id="mp4" src="assets/ours/long1.mp4" type="video/mp4"></video>  | <video id="video" controls="" preload="auto" poster="封面"><source id="mp4" src="assets/ours/long2.mp4" type="video/mp4"></video> | <video id="video" controls="" preload="auto" poster="封面"><source id="mp4" src="assets/ours/long3.mp4" type="video/mp4"></video>  |
 
 ## 🛠️ Setup
 - Comming Soon...
