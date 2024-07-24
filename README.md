@@ -7,9 +7,9 @@
 ## MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequences
 
 <p align="center">
-  <a href="#6-citation"><b>📖 Project Page</b></a> |
-  <a href="https://arxiv.org/abs/"><b>📄 Paper Link</b></a> |
-  <a href="https://huggingface.co/papers/"><b>🤗 Huggingface Paper Link</b></a> |
+  <a href="https://aim-uofa.github.io/MovieDreamer/"><b>📖 Project Page</b></a> |
+  <a href="https://arxiv.org/abs/2407.16655"><b>📄 Paper Link</b></a> |
+  <a href="https://huggingface.co/papers/2407.16655"><b>🤗 Huggingface Paper Link</b></a> |
   <a href="https://www.youtube.com/watch?v=aubRVOGrKLU"><b>📹 Demo</b></a>
 </p>
 
@@ -46,4 +46,13 @@ Please refer to our [homepage](https://aim-uofa.github.io/MovieDreamer/) for mor
 
 ## 🖊️ Citation
 ```
+@misc{zhao2024moviedreamerhierarchicalgenerationcoherent,
+      title={MovieDreamer: Hierarchical Generation for Coherent Long Visual Sequence}, 
+      author={Canyu Zhao and Mingyu Liu and Wen Wang and Jianlong Yuan and Hao Chen and Bo Zhang and Chunhua Shen},
+      year={2024},
+      eprint={2407.16655},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.16655}, 
+}
 ```
