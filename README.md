@@ -45,7 +45,7 @@ Please refer to our [homepage](https://aim-uofa.github.io/MovieDreamer/) for mor
 
 ## 🎫 License
 
-For academic use, this project is licensed under [the 2-clause BSD] License(https://opensource.org/license/bsd-2-clause). 
+For academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
 For commercial use, please contact [Chunhua Shen](chhshen@gmail.com).
 
 ## 🖊️ Citation
